@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/giacomo/Developer/tandu/ozapp/OzApp-fe/**)",
+      "Bash(npx tsc:*)",
+      "Bash(cd /Users/giacomo/Developer/tandu/ozapp/OzApp-fe && npm run type-check 2>&1)"
+    ]
+  }
+}
